@@ -5,4 +5,10 @@
   # else
     # sort left half of array
     # sort right half of array
-    # combine left and right half of the arrays 
+    # combine left and right half of the arrays
+
+def merge_sort(array)
+  length = array.length
+end
+
+p merge_sort([1, 5, 3])

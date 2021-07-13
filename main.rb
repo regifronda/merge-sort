@@ -9,6 +9,10 @@
 
 def merge_sort(array)
   length = array.length
+  
+  if length < 2
+    return array
+  end
 end
 
-p merge_sort([1, 5, 3])
+p merge_sort([3])

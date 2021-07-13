@@ -1,0 +1,1 @@
+A method #merge_sort that takes an array and divides it into smaller arrays, sort smaller arrays, and then combined them into a final sorted array using recursion.
